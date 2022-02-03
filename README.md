@@ -88,3 +88,21 @@ Continuous data can take on any value in a range.
 
 3. Dispersion
 
+It tells you how your dataset is spread out.
+
+- Range(max-min) of your variable. It is sensitive to outliers.
+            - Range completely ignores the mean, thats why variance comes in.
+
+- Inter Quartile range: Difference between the values at the 75th percentile of your data and the 25th percentile of your data.
+- Standard deviation and variance
+
+#### Variance 
+
+- Not only tells us how the numbers jumps around but also understands where your numbers are clustered.
+- It also considers the mean.
+- Variance is the second most important number to summarize your datapoints.
+- Variance of the data is simply the sum of the squares of the mean deviations divided by the number of data points you have in your data.
+
+Bessels Correction - put n-1 in the denominator while computing variance
+
+
