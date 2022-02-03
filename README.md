@@ -62,7 +62,29 @@ Discrete data can be numeric value that take on values from a predetermine subse
 
 Continuous data can take on any value in a range.
 
-#### Mean is extremly vulnerable to the presence of outlier.
+#### Mean is extremly sensitive to the presence of outlier.
+
+
+### Median
+
+- It is less influenced by the outlier.
+- The median is that value in your data such that 50% of the dataset is either side of it.
+- For calculating mean you have to sort the data in ascending or decending order and then use the middle element.
+- It the data points are even then average the middle 2.
+- The median might be the better measure of central tendency than the mean because it is much more robust to the presence of outliers.
+- Like mean, Median does not consider very data point available in the dataset.
+- The median can be computed on ordinal data, data that is not numeric but can be sorted like rating like good bad ugly very ugly.
+
+
+### Mode
+
+- The value that occurs most frequently in the data, if you plot a histogram, the highest bar represents the mode.
+- Examples - casting votes in an election
+- It is used with catagorical data, variables that take on a fixed set of values from a predetermined range, examples of catagorical data includes, days of a week, month of the year, makes of cars.
+- Mode dont need to be unique.
+- Mode is not great for continuous data that can take on any value within the range.
+
+- Contiuous data needs to be descretized before you can perform mode computation.
 
 3. Dispersion
 
