@@ -119,4 +119,9 @@ Properties in the real world can be represented by a normal distribution also ca
 
 - 68% data points lie within one standard deviation from the mean.
 
+#### In probability theory the law od large number is a theorem that describe the result of performing the same a large number of time.
+
+Large numbers converges to the probability.
+
+This flows from the law of large numbers, the actual frequency of the events converges to the expected probability of the events.
 
