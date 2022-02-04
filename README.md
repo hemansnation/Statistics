@@ -106,3 +106,17 @@ It tells you how your dataset is spread out.
 Bessels Correction - put n-1 in the denominator while computing variance
 
 
+## Probability
+
+- It defines the extends to which an event is likely to occur and it is measured by the ratio of the favorable cases to the whole number of cases.
+
+Probability Distribution
+- It tells you how likely a particular value is to occur in your data.
+- On x-axis the values are out distribution is to take on.
+- On y-axis the curve, the probability that a variable take on a particular value.
+
+Properties in the real world can be represented by a normal distribution also called a Gaussian Distribution or bell curve.
+
+- 68% data points lie within one standard deviation from the mean.
+
+
