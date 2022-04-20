@@ -125,3 +125,32 @@ Large numbers converges to the probability.
 
 This flows from the law of large numbers, the actual frequency of the events converges to the expected probability of the events.
 
+
+
+### Skewness
+
+Skewness is a measure of asymmetry around the mean.
+
+- To understand skewness, plot a probability distribution of data.
+- Skewness of a data is usually measured with respect to normal distribution.
+- Normaly Distributed data has a skewness = 0, it implies symmetry around mean value.
+
+Two types-
+- Right skewed(Positive Skewness) - the distribution where outliers and greater than the mean, where there is a lower bound but not an upper bound
+- Left skewed(Negative Skewness) - the distribution where outliers and less than the mean, where there is a an upper bound but not lower bound 
+
+
+### Kurtosis
+
+How offen an extreme value occurs on either side of the mean.
+
+- Normal distributed data has kurtosis = 3
+- Excess kurtosis = greater than 3
+- It represents the tail risk of the events
+- If any data that has high kurtosis that means exteme events are more likely to occur.
+
+
+
+
+
+
